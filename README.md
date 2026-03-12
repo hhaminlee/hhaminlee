@@ -6,6 +6,8 @@ Hi, I'm Hamin. I'm a CS student, always learning and applying new technologies. 
 
 **Tools** &nbsp; ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 
+**Certificates** &nbsp; 빅데이터분석기사 · SQLD · ADsP
+
 <a href="https://github.com/hhaminlee">
   <img src="https://github-readme-stats.vercel.app/api?username=hhaminlee&show_icons=true&theme=default&hide_border=true&border_radius=8" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhaminlee&layout=compact&theme=default&hide_border=true&border_radius=8&langs_count=6" height="160" />
