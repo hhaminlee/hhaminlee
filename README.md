@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Backend+%2B+Frontend+Developer;Python+%7C+Java+%7C+React+%7C+Spring;Always+Learning+New+Things+🚀)](https://git.io/typing-svg)
+### 💻 Web Developer
 
 </div>
 
@@ -10,28 +10,12 @@
 
 ### 🧑‍💻 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "이하민 (Hamin Lee)"
-        self.role = "CS Student"
-        self.languages = ["Python", "Java", "JavaScript", "TypeScript"]
-        self.frameworks = ["React", "Spring Boot"]
-        self.interests = ["Web Dev", "AI/ML", "Computer Vision"]
-        self.experience = ["Japan IT Conference Project 🇯🇵",
-                           "AI ChatBot Development 🤖",
-                           "Capstone Project (Scouter Lab) 🔬"]
+> 안녕하세요! 컴퓨터공학을 전공하고 있는 **이하민**입니다.
 
-    def current_focus(self):
-        return "풀스택 개발 & 코딩 테스트 준비 📚"
-
-    def say_hi(self):
-        print("방문해주셔서 감사합니다! 함께 성장해요 🚀")
-
-
-me = Developer()
-me.say_hi()
-```
+- 🎓 컴퓨터공학 전공 대학생
+- 🌐 **React**와 **Spring Boot** 기반 웹 개발에 관심이 많습니다
+- 📝 꾸준히 코딩 테스트를 준비하고 있습니다
+- 🎯 **풀스택 웹 개발자**를 목표로 성장 중입니다
 
 ---
 
@@ -39,16 +23,27 @@ me.say_hi()
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**AI & Tools**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -57,12 +52,19 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhaminlee&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhaminlee&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hhaminlee&show_icons=true&theme=default&hide_border=true&border_radius=12" height="170" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhaminlee&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hhaminlee&theme=default&hide_border=true&border_radius=12" height="170" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhaminlee&layout=compact&theme=default&hide_border=true&border_radius=12&langs_count=8" height="170" />
 </div>
 
 ---
@@ -77,14 +79,23 @@ me.say_hi()
   </picture>
 </div>
 
-> 🐍 Snake 애니메이션을 활성화하려면 [GitHub Actions 설정 가이드](#-snake-애니메이션-설정-방법)를 참고하세요.
-
 ---
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hhaminlee&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=hhaminlee&theme=flat&no-frame=true&row=1&column=7" width="100%" />
+</div>
+
+---
+
+### 📬 Contact
+
+<div align="center">
+
+[![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://octo-develop.tistory.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hhaminlee)
+
 </div>
 
 ---
@@ -96,38 +107,3 @@ me.say_hi()
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" />
-
-<!--
-### 🐍 Snake 애니메이션 설정 방법
-
-1. `hhaminlee/hhaminlee` 리포지토리에 `.github/workflows/snake.yml` 파일을 생성하세요:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: hhaminlee
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. 리포지토리 Settings > Actions > General에서 "Read and write permissions" 활성화
-3. Actions 탭에서 워크플로우 수동 실행
--->
